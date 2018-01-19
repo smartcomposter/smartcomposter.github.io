@@ -1193,7 +1193,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
    .landing-page .section-features .card-contact {
         width: 100%;
         min-height: 200px;
-        padding: 20px 7px;
+        padding: 15px 0px;
         border: 0;
         border-radius: 0px;
         margin-top: 30px;

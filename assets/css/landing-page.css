@@ -1203,6 +1203,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
         border-radius: 50%;
    }
 
+   .landing-page .section-features .card-contact p {
+        text-align: center;
+   }
+
    .landing-page .section-features .card .icon i{
         font-size: 63px;
         color: #9a9a9a;
@@ -1679,7 +1683,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     height: 100%;
   }
   .landing-page .parallax .description{
-    margin-top: 65px;  }
+    margin-top: 170px;
+  }
   .landing-page .parallax .buttons{
     margin: 20px 0;
   }
@@ -1695,6 +1700,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
   }
   .landing-page .section-presentation{
     height: auto;
+  }
+  .landing-page .section-presentation img{
+    margin-top: 60px;
+    /* display: block;
+    margin: 0 auto; */
   }
   .landing-page .carousel-indicators{
     bottom: -30px;

@@ -1101,6 +1101,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     /* left: 0; */
     /* height: 500px; */
     max-height: 500px;
+    margin-top: 30px;
     /* vertical-align: middle; */
    }
 

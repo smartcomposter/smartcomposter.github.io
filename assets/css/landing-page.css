@@ -1224,6 +1224,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     }
     .landing-page .section-features .card.card-blue img{
       padding: 0 7px;
+      width: 80%;
     }
     .landing-page .section-features .card.card-blue .icon i{
       color:#00bbff;
@@ -1695,6 +1696,9 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
   .landing-page .logos ul{
     padding-top: 20px;
   }
+  .landing-page .section-features .card.card-blue img{
+    width: 65%;
+  }
   .landing-page .section-presentation{
     margin: 0;
   }
@@ -1703,8 +1707,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
   }
   .landing-page .section-presentation img{
     margin-top: 60px;
-    /* display: block;
-    margin: 0 auto; */
   }
   .landing-page .carousel-indicators{
     bottom: -30px;

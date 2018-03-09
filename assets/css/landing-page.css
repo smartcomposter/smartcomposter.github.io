@@ -766,8 +766,10 @@ a:focus, a:active {
 }
 .landing-page .section-troubleshooting p {
   margin-top: 15px;
+  color: #9a9a9a;
 }
 .landing-page .section-troubleshooting h6 {
+  color: #3b444b;
   margin-top: 60px;
 }
 .landing-page .social-line {

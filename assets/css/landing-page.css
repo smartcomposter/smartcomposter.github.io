@@ -760,6 +760,16 @@ a:focus, a:active {
 .landing-page .section-clients h3 {
   margin-top: 10px;
 }
+.landing-page .section-troubleshooting {
+  padding: 50px 0;
+  margin-top: 200px;
+}
+.landing-page .section-troubleshooting p {
+  margin-top: 15px;
+}
+.landing-page .section-troubleshooting h6 {
+  margin-top: 60px;
+}
 .landing-page .social-line {
   border-bottom: 1px solid #dddddd;
 }
@@ -1264,7 +1274,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
    .landing-page .section-testimonial{
      position: relative;
     width: 100%;
-    min-height: 450px;
+    height: 450px;
   }
   .landing-page .section-testimonial .carousel{
     margin-top: 50px;
@@ -1281,9 +1291,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     }
 
    .landing-page .section-testimonial .carousel-inner .item img{
-      width: 100%;
+      width: auto;
       height: auto;
+      max-height: 350px;
+      border: 5px solid #ddd;
       display: block;
+      margin-left: auto;
+      margin-right: auto;
    }
 
    .landing-page .section-testimonial .carousel-inner .item .carousel-testimonial-caption{
